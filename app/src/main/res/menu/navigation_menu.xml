@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="@string/pages">
+        <menu>
+            <item
+                android:id="@+id/history_item"
+                android:icon="@android:drawable/ic_menu_recent_history"
+                android:title="@string/history" />
+
+            <item
+                android:id="@+id/iam_parts"
+                android:icon="@drawable/ic_meditation_guru"
+                android:title="@string/iam_parts" />
+
+            <item
+                android:id="@+id/voice_item"
+                android:icon="@drawable/ic_text_to_speech"
+                android:title="@string/voice" />
+        </menu>
+
+    </item>
+
+    <item android:title="@string/app_functionallity">
+        <menu>
+            <item
+                android:id="@+id/checkBox_human_voice"
+                android:title="Human voice"
+                app:actionLayout="@layout/menu_checkbox_item" />
+
+            <item
+                android:id="@+id/checkBox_stay_awake"
+                android:title="@string/stay_awake"
+                app:actionLayout="@layout/menu_checkbox_item" />
+
+            <item
+                android:id="@+id/checkBox_silent"
+                android:title="@string/phone_on_silent"
+                app:actionLayout="@layout/menu_checkbox_item" />
+
+            <item
+                android:id="@+id/checkBox_vibrate"
+                android:title="@string/vibrate_for_iam"
+                app:actionLayout="@layout/menu_checkbox_item" />
+        </menu>
+    </item>
+</menu>

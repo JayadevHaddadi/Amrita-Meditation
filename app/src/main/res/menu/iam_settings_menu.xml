@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="@string/iam_duration">
+        <menu>
+            <item
+                android:id="@+id/spinner_fixed_addition"
+                android:title="@string/extra_per_item"
+                app:actionLayout="@layout/menu_spinner_item"
+                android:textColor="#FF0000"
+                style="@style/BlackText" />
+
+            <item
+                android:id="@+id/spinner_shavasana"
+                android:title="@string/shavasana"
+                app:actionLayout="@layout/menu_spinner_item" />
+
+            <item
+                android:id="@+id/spinner_end_meditation"
+                android:title="@string/end_meditation"
+                app:actionLayout="@layout/menu_spinner_item" />
+        </menu>
+    </item>
+</menu>

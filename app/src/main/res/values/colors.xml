@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="backgroundColor">#5C6BC0</color>
+    <color name="colorAccent">#9FA8DA</color>
+    <color name="textColor">#C5CAE9</color>
+
+    <color name="white">#ffffff</color>
+
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="graph_average_color">#FF9800</color>
+    <color name="graph_color" >#FFEB3B</color>
+    <color name="deep_yellow">#ffd945</color>
+    <color name="yellow">#ffe270</color>
+    <color name="black">#000000</color>
+
+
+
+    <!--For CalendarView-->
+    <color name="custom_calendar_grid_color">#46d1aa</color>
+    <color name="custom_calendar_month_text_color">#0f6c52</color>
+
+    <color name="custom_calendar_year_selection_background">#0f6c52</color>
+    <color name="custom_calendar_year_selection_arrows_color">#f2e81a</color>
+    <color name="custom_calendar_year_selection_text_color">#f2e81a</color>
+
+    <color name="custom_calendar_days_bar_background">#0f6c52</color>
+    <color name="custom_calendar_days_bar_text_color">#f2e81a</color>
+
+    <color name="custom_calendar_date_text_color">@color/white</color>
+    <color name="custom_calendar_date_background">@color/textColor</color>
+
+    <color name="custom_calendar_date_pressed_text_color">@color/textColor</color>
+    <color name="custom_calendar_date_pressed_background">#33b18d</color>
+
+    <color name="custom_calendar_date_selected_text_color">#f2e81a</color>
+    <color name="custom_calendar_date_selected_background">#0f6c52</color>
+
+    <color name="custom_calendar_date_disabled_text_color">#757575</color>
+    <color name="custom_calendar_date_disabled_background">@color/backgroundColor</color>
+
+    <color name="custom_calendar_date_today_text_color">#f2e81a</color>
+    <color name="custom_calendar_date_today_background">@color/textColor</color>
+
+    <color name="custom_calendar_date_weekend_text_color">#0f6c52</color>
+    <color name="custom_calendar_date_weekend_background">#a8f1db</color>
+
+    <color name="event_1_color">#a31a0b</color>
+    <color name="event_2_color">#0c41bc</color>
+    <color name="event_3_color">#0f6c52</color>
+    <color name="event_4_color">#d9ba20</color>
+    <color name="event_5_color">#bf36c1</color>
+    <color name="event_6_color">#3dbebc</color>
+    <color name="transparent">#00000000</color>
+</resources>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+    <!--APP NAME-->
+    <string name="app_name">Iam Meditation</string>
+
+    <!--SPINNER BUTTONS-->
+    <string name="default_extra_time">0 sec</string>
+    <string-array name="string_array_extra_time">
+        <item>-5 sec</item>
+        <item>-2 sec</item>
+        <item>0 sec</item>
+        <item>2 sec</item>
+        <item>5 sec</item>
+        <item>7 sec</item>
+        <item>10 sec</item>
+    </string-array>
+    <string name="default_shavasana">3 min</string>
+    <string-array name="string_array_shavasana_time">
+        <item>0 min</item>
+        <item>2 min</item>
+        <item>3 min</item>
+        <item>5 min</item>
+        <item>7 min</item>
+        <item>10 min</item>
+    </string-array>
+    <string name="default_end_meditation">5 min</string>
+    <string-array name="string_array_end_meditation">
+        <item>0 min</item>
+        <item>5 min</item>
+        <item>10 min</item>
+        <item>15 min</item>
+        <item>30 min</item>
+        <item>45 min</item>
+        <item>60 min</item>
+    </string-array>
+
+    <!--DRAWER ACCESEBILITY TEXT-->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--MENU ITEMS-->
+    <string name="iam_duration">Iam duration</string>
+    <string name="extra_per_item">Extra per item</string>
+    <string name="shavasana">Shavasana</string>
+    <string name="end_meditation">End meditation</string>
+    <string name="app_functionallity">App functionallity</string>
+    <string name="stay_awake">Stay awake</string>
+    <string name="phone_on_silent">Phone on silent</string>
+    <string name="vibrate_for_iam">Vibrate for Iam</string>
+    <string name="pages">Pages</string>
+    <string name="history">History</string>
+    <string name="signOut">Sign out</string>
+    <string name="signIn">Sign in</string>
+    <string name="voice">Voice</string>
+    <string name="iam_parts">Iam Parts</string>
+
+    <!--History-->
+    <string name="calendar">Calendar</string>
+    <string name="graph">Graph</string>
+    <string name="add">ADD</string>
+
+    <!--GRAPH INFORMATION-->
+    <string name="meditationsString">Meditations: </string>
+    <string name="averageString">Average rating: </string>
+    <string name="ratings_last_30_days">Ratings last&#160;</string>
+    <string name="days">&#160;days</string>
+    <string name="average_graph_lebel">Average</string>
+    <string name="meditations_graph_label">Meditations</string>
+
+    <!--RATE YOUR MEDITATION-->
+    <string name="rate_your_meditation">Rate your meditation</string>
+    <string name="comments">Comments</string>
+    <string name="save">Save</string>
+    <string name="rating">Rating:</string>
+
+    <!--TEXT TO SPEECH-->
+    <string name="pause_voice">Pause</string>
+
+    <!--GOOGLE CALENDAR NAME-->
+    <string name="sadhana_google_calendar" translatable="false">Sadhana</string>
+
+    <!--IAM PARTS-->
+    <string name="sit_comfortably">Sit Comfortably, spine straight</string>
+    <string name="gaze_down">Gaze down, watch mind</string>
+    <string name="breating_practice">Breathing practice</string>
+    <string name="deep_peace">Deep peace</string>
+    <string name="close_ears">Close your ears, reverberation</string>
+    <string name="makara">Makara</string>
+
+    <string name="palm_on_head">Palm on head, God\'s grace</string>
+    <string name="ice_cold_water">Ice-cold water</string>
+    <string name="press_with">Press with the middle finger</string>
+    <string name="feel_vibration">Feel vibration along straight line</string>
+
+    <string name="visualize">Visualize golden star: Ajna chakra</string>
+    <string name="vishuddhi">Vishuddhi chakra</string>
+    <string name="anahata">Anahata chakra</string>
+    <string name="manipuraka">Manipuraka chakra</string>
+    <string name="swadhisthana">Swadhishthana chakra</string>
+    <string name="muladhara">Muladhara chakra</string>
+    <string name="ajna">Ajna chakra</string>
+    <string name="sahasrara">Sahasrara chakra</string>
+
+    <string name="rising_sun">Rising sun</string>
+    <string name="golden">Golden effulgence spreading</string>
+    <string name="slowly_draw">Slowly draw breath circular</string>
+    <string name="feel_vibration_muladhara">Feel vibration: Muladhara chakra</string>
+</resources>

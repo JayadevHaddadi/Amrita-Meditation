@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="edu.amrita.jayadev.myapplication.MainActivity">
+    <item
+        android:id="@+id/calendar_item"
+        android:orderInCategory="100"
+        android:icon="@android:drawable/ic_menu_my_calendar"
+        android:title="History"
+        app:showAsAction="always" />
+</menu>
